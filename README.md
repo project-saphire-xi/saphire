@@ -19,5 +19,7 @@ A quick-start guide, frequently asked questions, and a table of "what works" are
 ## LICENSE
 
 - project-saphire-xi is descended from Darkstar Project, which was licensed under [GNU GPL v3](https://github.com/project-saphire-xi/saphire/blob/release/LICENSE)
-- project-saphire-xi is also descended from Project Topaz/Topaz-next, which was licensed under [GNU GPL v3](https://github.com/project-saphire-xi/saphire/blob/release/LICENSE)
+
+- project-saphire-xi is also descended from Project Topaz and Topaz-next, which were licensed under [GNU GPL v3](https://github.com/project-saphire-xi/saphire/blob/release/LICENSE)
+
 - project-saphire-xi itself is licensed under [GNU GPL v3](https://github.com/project-saphire-xi/saphire/blob/release/LICENSE)
