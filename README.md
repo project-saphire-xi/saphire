@@ -2,7 +2,7 @@
 
 [![release build](https://img.shields.io/github/workflow/status/project-saphire-xi/saphire/build/release?label=release)](https://github.com/topaz-next/topaz/actions?query=workflow%3Abuild+branch%3Arelease)
 [![canary build](https://img.shields.io/github/workflow/status/project-saphire-xi/saphire/build/canary?label=canary)](https://github.com/topaz-next/topaz/actions?query=workflow%3Abuild+branch%3Acanary)
-[![Discord](https://img.shields.io/discord/785766425829572608.svg?label=discord&logo=discord)](https://discord.gg/YvM9mDHGKb)
+[![Discord](https://img.shields.io/discord/821082565065834506.svg?label=discord&logo=discord)](https://discord.gg/YvM9mDHGKb)
 [![GitHub contributors](https://img.shields.io/github/contributors/project-saphire-xi/saphire.svg)](https://GitHub.com/project-saphire-xi/graphs/contributors/)
 ![License](https://img.shields.io/github/license/topaz-next/topaz)
 
